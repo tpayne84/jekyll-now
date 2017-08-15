@@ -23,4 +23,4 @@ Obviously, this is just to get you started... But that is what this post is abou
 I invite you to join me on this journey from an idea to a productized web application, as I will be writing more posts as I take additional steps toward a release of an idea I am developing into a web app.
 
 
-[t. payne](www.tpayne.net) @ [tinkr.deisgn](tinker.deisgn)
+[t. payne](http://www.tpayne.net/) @ [tinkr.deisgn](http://www.tinker.deisgn/)
