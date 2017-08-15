@@ -1,6 +1,8 @@
 ---
 layout: post
-title: First steps
+title:  "First steps"
+date:   2017-08-14
+categories: development
 ---
 
 If you are like me, every problem in your day-to-day seems more like a potential opportunity for you to create a solution ( or at least a better mouse trap ).  However until now, I haven't taken the time to develop any of these ideas into more than a simple proof of concept.  But, I have finally decided to make the time and put forth the effort to begin developing some of my solutions for common and some less common problems into working productized solutions.
