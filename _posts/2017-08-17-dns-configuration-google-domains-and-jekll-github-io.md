@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DNS Configuration: Google Domains and Jekll @ github.io"
+title:  "DNS Configuration: Google Domains and Jekyll @ github.io"
 date:   2017-08-16
 categories: operations dns configuration
 ---
