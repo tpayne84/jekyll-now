@@ -5,13 +5,6 @@ date:   2017-08-14
 categories: development
 ---
 
----
-layout: post
-title:  "Choose your stack"
-date:   2017-08-14
-categories: development
----
-
 ## Choosing your stack:
 Once you have a domain and traffic is being routed to your server, it is then time to choose your software stack.
 
