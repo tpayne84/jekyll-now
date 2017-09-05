@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choose your stack"
-date:   2017-08-14
+date:   2017-09-05
 categories: development
 ---
 
