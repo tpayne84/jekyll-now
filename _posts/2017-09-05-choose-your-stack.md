@@ -86,7 +86,7 @@ Cons:
 - Connecting to a [MongoDB](https://www.mongodb.com/) database.
 
 
-I will be building the front-end using [React](https://facebook.github.io/react/) with [Express](https://expressjs.com/) powering the back-end api.
+I will be building the front-end using [React](https://facebook.github.io/react/) with [Restify](https://restify.com) powering the back-end api.
 
 ---
 
