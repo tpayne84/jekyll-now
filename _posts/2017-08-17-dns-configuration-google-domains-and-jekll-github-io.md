@@ -3,6 +3,8 @@ layout: post
 title:  "DNS Configuration: Google Domains and Jekyll @ github.io"
 date:   2017-08-17
 categories: operations dns configuration
+tags:
+- devops
 ---
 
 The setup and configuration process for a Domain managed by [Google Domains](http://domains.google.com) running a [Jekyll Blog](https://jekyllrb.com/) hosted on [GitHub Pages](https://pages.github.com/).
@@ -32,7 +34,7 @@ Login to [Google Domains](http://domains.google.com/) and navigate to the DNS co
 |      |       |              | 192.30.252.154             |
 | www  | CNAME | 1H           | {githubusername}.github.io |
 
-Thats all. Be warned that it may take a bit to propagate the records across the globe ( up to a day ), but generally this happens in less than 5 minutes for most locations.
+That's all... but be warned that it may take a bit to propagate the records across the globe ( up to a day ), but generally this happens in less than 5 minutes for most locations.
 
 You can visual the propagation [using various online tools](https://www.google.com/search?q=dns+propagation+checker) while you wait.
 
